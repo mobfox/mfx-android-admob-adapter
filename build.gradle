@@ -4,12 +4,12 @@ apply plugin: 'maven'
 
 group 'sdk.mobfox.com.mobfoxandroidadapteradmob'
 
-version = '4.0.6'
+version = '17.2.1'
 
 ext {
     // location of external files relative to this build.gradle file
     extFiles = [
-        main:       'MobFox-Android-AdMob-Adapter-4.0.6.jar',
+        main:       'MobFox-Android-AdMob-Adapter-17.2.1.jar',
     ]
 }
 
